@@ -1,4 +1,4 @@
-# Loja Natalina - Website 
+# Loja Natalina - Website
 Uma experiência digital dedicada ao universo da decoração natalina. A NOËL combina elegância, sofisticação e funcionalidade em uma loja virtual desenvolvida com tecnologias web fundamentais.
 
 ---
